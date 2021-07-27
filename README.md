@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuyGuyGuyGuyGuyGuyGuyGuy
 - 👀 I’m interested in the j
 - 🌱 I’m currently learning the history of the j
-- 💞️ I’m looking to collaborate on upgrading the k
+- 💞️ I’m looking to collaborate on upgrading the j
 - 📫 How to reach me thejstudiers@gmail.com
 
 <!---
